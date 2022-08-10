@@ -54,15 +54,17 @@ body {
 
         h1 {
             font-family: 'Fraunces', serif;
+            line-height: 1;
             font-size: 36px;
             padding: 12px 0;
+            margin: 10px 0 0 0;
         }
 
         p {
             font-size: 14px;
             font-family: 'Montserrat', sans-serif;
             line-height: 1.5;
-            padding: 10px 0;
+            padding: 8px 0;
             color: hsl(0, 0%, 47%);
         }
 
@@ -74,7 +76,7 @@ body {
             p {
                 font-size: 12px;
                 font-family: 'Fraunces', serif;
-                padding: 0;
+                padding: 8px 0;
 
                 &:first-child {
                     color: hsl(158, 36%, 37%);
@@ -107,7 +109,7 @@ body {
         padding: 12px 0;
         border-radius: 7px;
         border-style: none;
-        margin: 20px 0 0 0;
+        margin: 18px 0 0 0;
         font-size: 14px;
 
         img {
